@@ -9,4 +9,7 @@ are then used in subsequent projects by all Staples Lab members.</p>
 
 <p>Our work is licensed under <b>CC BY-NC-SA 4.0</b>.</p> 
 <p>To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/</p>
-<p>Questions or confusions? Contact us as staples.lab@ubc.ca </p>
+<p>Questions or confusions? Contact us at staples.lab@ubc.ca </p>
+
+<p>We have included suggested citation for each individual code file.</p>
+<p>Suggested citation for the entire folder: Erdelyi S, Daly-Grafstein D, Ying Y, Hu X, Khan M, Staples JA. Staples Lab standard R code to read in data. Retrieved from: https://github.com/StaplesLab/Standard-R-code</p>
