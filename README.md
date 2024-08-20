@@ -12,4 +12,4 @@ are then used in subsequent projects by all Staples Lab members.</p>
 <p>Questions or confusions? Contact us at staples.lab@ubc.ca </p>
 
 <p>We have included suggested citation for each individual code file.</p>
-<p>Suggested citation for the entire folder: Erdelyi S, Daly-Grafstein D, Ying Y, Hu X, Khan M, Staples JA. Staples Lab standard R code to read in data. Retrieved from: https://github.com/StaplesLab/Standard-R-code</p>
+<p>Suggested citation for the entire folder: Erdelyi S, Daly-Grafstein D, Ying Y, Hu X, Khan M, Staples JA. Staples Lab standard R code to read in data. 2023 December 21. Retrieved from: https://github.com/StaplesLab/Standard-R-code</p>
